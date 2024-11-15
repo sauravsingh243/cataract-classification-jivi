@@ -1,10 +1,11 @@
 # cataract-classification-jivi
 
 ## Setup Instructions
-1. Install Requirements
-Ensure you have Python installed. Install the required dependencies using the command:
-
-pip install -r requirements.txt
+1. **Install Requirements**  
+   Ensure you have Python installed. Install the required dependencies using the command:
+   ```
+   pip install -r requirements.txt
+   ```
 
 2. Configure Parameters
 The config.ini file includes adjustable parameters such as:
