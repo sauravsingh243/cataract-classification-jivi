@@ -1,6 +1,6 @@
-cataract-classification-jivi
+# cataract-classification-jivi
 
-Setup Instructions
+## Setup Instructions
 1. Install Requirements
 Ensure you have Python installed. Install the required dependencies using the command:
 
