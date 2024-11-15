@@ -6,6 +6,6 @@ __pycache__/
 dataset/
 .ipynb_checkpoints
 best_model.h5
-# .gitattributes
+.gitattributes
 logs
 output
