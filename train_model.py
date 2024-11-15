@@ -12,7 +12,7 @@ from sklearn.metrics import confusion_matrix, f1_score
 import seaborn as sns
 from sklearn.metrics import roc_curve, roc_auc_score
 from app import API
-from werkzeug.serving import is_running_from_reloader
+# from werkzeug.serving import is_running_from_reloader
 import shutil
 
 class TrainModel:
