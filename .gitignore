@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.env
+dataset/
+.ipynb_checkpoints
+best_model.h5
+# .gitattributes
+logs
+output
