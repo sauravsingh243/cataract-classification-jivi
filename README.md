@@ -36,4 +36,10 @@ python get_results.py --file_path "path_to_file"
 ```
 Replace "path_to_file" with the absolute or relative path to your test image.
 
+4. **Direct curl command on terminal:**
+```
+curl -X POST -F "file=@path_to_file" http://127.0.0.1:5002/predict
+```
+Note: I am assuming our server is running on 5002 port, please replace it accordingly.
+
 
